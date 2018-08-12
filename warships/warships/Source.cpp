@@ -43,7 +43,6 @@ void directioDecision(char arr[size1][size1], int x, int y)
 		}
 	}
 }
-// это жопа
 int main()
 {
 	const int size1 = 12;
