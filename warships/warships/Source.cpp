@@ -47,6 +47,7 @@ void directioDecision(char arr[size1][size1], int x, int y)
 int main()
 {
 	const int size1 = 12;
+	int fafa;
 	int xHolder, yHolder;
 	int enemyXholder, enemyYholder;
 	char field[size1][size1];
